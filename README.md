@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KacperBiadun
 - 👀 I’m interested in programming and cars.
-- 🌱 I’m currently learning C#/.NET.
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @biadun_k on Instagram
 
